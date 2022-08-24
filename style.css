@@ -1,0 +1,166 @@
+.hero{
+background-image: url(1.jpg);
+background: linear-gradient(black,white op);
+}
+.herotext{
+    padding: 300px 100px;
+    text-align: center;
+    color: aliceblue;
+}
+.herotext h1{
+    font-family: Inter;
+    font-size:xxx-large;
+}
+.herotext p{
+    font-size: large;
+}
+.btnH{
+    background-color:#FF5959;
+    padding:15px;
+    border-radius:7px;
+    border:0px ;
+    color:white;
+    font-size: larger;
+}
+.second-hero{
+    padding: 150px 100px;
+    text-align: center;
+    color: black;
+}
+.second-hero h3{
+    font-family: Inter;
+    font-size:xxx-large;
+}
+.second-hero p{
+    font-size: large;}
+
+.takas{
+  font-size:xx-large; 
+  color: gray; 
+  display: flex;
+justify-content: center;
+}
+.tk{
+    padding: 50px 50px;
+}
+.sec{
+    background-color: #f39a9a;
+    color: aliceblue;
+    border: 1px #FF5959;
+}
+.hr-solid{
+margin: 80px 0px;
+}
+.amount{
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.form-taka{
+    text-align: center;
+    text-decoration: none;
+}
+#fname[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid red;}
+
+    .tnd-hero{
+        padding: 50px 100px;
+        text-align: center;
+        color: black;
+    }
+    .tnd-hero h3{
+        font-family: Inter;
+        font-size:xxx-large;
+    }
+    .tnd-hero p{
+        font-size: large;}
+    .custom-box{
+        display: flex;
+        margin: 0px 250px;
+        justify-content: space-evenly;
+    }
+    .c-box {
+        height: 350px;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        padding:20px;
+        
+    }
+    .ic{
+        margin-right: 30px;
+    }
+.red{
+background-color: #dfc0c0;
+margin-right: 30px;
+}
+.yellow{
+background-color: #c4c8ee;
+margin-right: 30px;
+}
+.blue{
+background-color: #edeec5;
+}
+.life{
+display: flex;
+margin: 50px ;
+margin-left: 250px;
+}
+.img{
+    height:90%;
+    width: 80%;
+
+}
+.text{height:50%;
+    width: 50%;}
+.lifes{
+display: flex;
+margin: 70px 200px ;
+margin-right: 170px;}
+
+.getupdate{
+    padding: 50px 100px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.getupdate h1{
+    font-family: Inter;
+    font-size:xxx-large;
+}
+.getupdate p{
+    font-size: large;}
+
+#footer{
+    height: 300px;
+    background-color: black;
+    
+}
+.foot{
+    display: flex;
+    color: aliceblue;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 24px;
+}
+.foot h2 {
+    color:#FF5959;
+    margin-top: 50px;
+}
+.foot h6 {
+    margin-top: -5px;
+}
+.foom{
+    margin-bottom: 5px;
+}
